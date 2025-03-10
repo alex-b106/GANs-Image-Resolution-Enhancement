@@ -1,0 +1,16 @@
+matplotlib
+seaborn
+numpy
+scikit-learn
+tqdm
+yfinance
+ccxt
+torch
+torchvision
+diffusers
+transformers
+accelerate
+opencv-python
+lmdb
+super-image
+datasets
